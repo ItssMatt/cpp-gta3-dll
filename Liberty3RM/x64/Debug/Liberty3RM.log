@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\matei\repos\Liberty3RM\Liberty3RM\dllmain.cpp(12,59): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+C:\Users\matei\repos\Liberty3RM\Liberty3RM\dllmain.cpp(12,59): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+C:\Users\matei\repos\Liberty3RM\Liberty3RM\dllmain.cpp(13,47): warning C4312: 'type cast': conversion from 'DWORD' to 'CPed *' of greater size
+LINK : fatal error LNK1201: error writing to program database 'C:\Users\matei\repos\Liberty3RM\x64\Debug\DLL.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
